@@ -1,5 +1,6 @@
 # Rock-Paper-Scissors
 Classic Rock, Paper, and Scissors game implemented using OOP concepts.<br/>
+Run '21100157_1.cpp' only.<br/>
 To Run:
 1) Initial screen is hard coded. It is testing Rock vs Paper. Output is 0 (meaning tool on the left side lost and right side won. Similarly, output is 1 when we test Rock vs Scissor indicating tool on the left side won and right side lost.
 
